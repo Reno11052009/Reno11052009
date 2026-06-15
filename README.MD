@@ -13,7 +13,6 @@
 ### 👤 About Me
 
 - 🎓 Siswa kelas **XI RPL** di SMK PGRI 3 Malang
-- 🔧 Sedang PKL di **PT. Rowellin Persada Utama**
 - 💻 Belajar web & mobile development secara mandiri
 - 🌱 Sedang mendalami **Laravel** dan **Next.js**
 - 📍 Malang, Jawa Timur, Indonesia
