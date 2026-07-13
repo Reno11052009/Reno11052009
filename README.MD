@@ -81,16 +81,10 @@
 
 ---
 
-### 🐍 Contribution Activity
+### 📊 Contribution Activity
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contribution" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/Reno11052009/Reno11052009/raw/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
