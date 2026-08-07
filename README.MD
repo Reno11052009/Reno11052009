@@ -59,8 +59,8 @@
 ### 🌐 Webside
 
 <div align="center">
-  <a href="https://renoreno.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-renoreno.my.id-0078D4?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+  <a href="https://renoreno.online" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-renoreno.online-0078D4?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
